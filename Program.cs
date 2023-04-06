@@ -1,6 +1,7 @@
 using got_billy.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
