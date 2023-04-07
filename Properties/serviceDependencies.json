@@ -10,8 +10,7 @@
     },
     "appConfig1": {
       "type": "appConfig",
-      "connectionId": "AppConfig_connectionstrname",
-      "dynamicId": null
+      "connectionId": "AppConfig_connectionstrname"
     }
   }
 }

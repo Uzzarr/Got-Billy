@@ -14,8 +14,7 @@
       "secretStore": "LocalSecretsFile",
       "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.AppConfiguration/configurationStores/got-billy",
       "type": "appConfig.azure",
-      "connectionId": "AppConfig_connectionstrname",
-      "dynamicId": null
+      "connectionId": "AppConfig_connectionstrname"
     }
   }
 }
