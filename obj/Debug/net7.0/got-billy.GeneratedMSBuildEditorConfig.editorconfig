@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = got_billy
 build_property.RootNamespace = got_billy
-build_property.ProjectDir = F:\CSfiles\webapprepo\Got-Billy\
+build_property.ProjectDir = F:\CSfiles\webapprepo\got-billy\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\CSfiles\webapprepo\Got-Billy
+build_property.MSBuildProjectDirectory = F:\CSfiles\webapprepo\got-billy
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/CSfiles/webapprepo/Got-Billy/App.razor]
+[F:/CSfiles/webapprepo/got-billy/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/Pages/Counter.razor]
+[F:/CSfiles/webapprepo/got-billy/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/Pages/FetchData.razor]
+[F:/CSfiles/webapprepo/got-billy/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/Pages/Index.razor]
+[F:/CSfiles/webapprepo/got-billy/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/Shared/SurveyPrompt.razor]
+[F:/CSfiles/webapprepo/got-billy/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/_Imports.razor]
+[F:/CSfiles/webapprepo/got-billy/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/Shared/MainLayout.razor]
+[F:/CSfiles/webapprepo/got-billy/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zhc3kcnr6n
 
-[F:/CSfiles/webapprepo/Got-Billy/Shared/NavMenu.razor]
+[F:/CSfiles/webapprepo/got-billy/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-he7jtnvkis
 
-[F:/CSfiles/webapprepo/Got-Billy/Pages/Error.cshtml]
+[F:/CSfiles/webapprepo/got-billy/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/CSfiles/webapprepo/Got-Billy/Pages/_Host.cshtml]
+[F:/CSfiles/webapprepo/got-billy/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
